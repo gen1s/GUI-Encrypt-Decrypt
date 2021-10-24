@@ -1,1 +1,1 @@
-Example text file
+Example .txt file
